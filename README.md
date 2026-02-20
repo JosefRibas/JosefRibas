@@ -10,6 +10,9 @@
 
 - 🌱 I'm currently learning **Atualmente estou em processo contínuo de especialização em Segurança da Informação, desenvolvendo laboratórios práticos em análise de vulnerabilidades, utilizando o WebSploit Labs.**
 
+📕 **Projetos e Laboratórios Práticos**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/JosefRibas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JosefRibas" height="30" width="40" /></a>
