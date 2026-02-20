@@ -1,4 +1,4 @@
-# Hi 👋, I'm Josef Ribas
+# Hi 👋
 
 ### Estou me aperfeiçoando em em Segurança da Informação com foco em infraestrutura segura, hardening de servidores, análise de vulnerabilidades e implementação de ambientes resilientes
 
@@ -6,9 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=JosefRibas&label=Profile%20views&color=0e75b6&style=flat" alt="JosefRibas" />
 </p>
 
-- 🔭 I'm currently working on **Atualmente meu foco é o estudo na área de segurança da informação, aplicando práticas de hardening, controle de acesso, proteção de dados e análise de vulnerabilidades.**
+- 🔭 Atualmente estou trabalhando em **Atualmente meu foco é o estudo na área de segurança da informação, aplicando práticas de hardening, controle de acesso, proteção de dados e análise de vulnerabilidades.**
 
-- 🌱 I'm currently learning **Atualmente estou em processo contínuo de especialização em Segurança da Informação, desenvolvendo laboratórios práticos em análise de vulnerabilidades, utilizando o WebSploit Labs.**
+- 🌱 Atualmente estou aprendendo **Atualmente estou em processo contínuo de especialização em Segurança da Informação, desenvolvendo laboratórios práticos em análise de vulnerabilidades, utilizando o WebSploit Labs.**
 
 📕 **Projetos e Laboratórios Práticos**
 
