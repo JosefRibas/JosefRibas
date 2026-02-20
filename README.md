@@ -2,7 +2,9 @@
 
 ### Estou me aperfeiçoando em em Segurança da Informação com foco em infraestrutura segura, hardening de servidores, análise de vulnerabilidades e implementação de ambientes resilientes
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JosefRibas&label=Profile views&color=0e75b6&style=flat" alt="JosefRibas" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JosefRibas&label=Profile%20views&color=0e75b6&style=flat" alt="JosefRibas" />
+</p>
 
 - 🔭 I'm currently working on **Atualmente meu foco é o estudo na área de segurança da informação, aplicando práticas de hardening, controle de acesso, proteção de dados e análise de vulnerabilidades.**
 
