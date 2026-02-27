@@ -11,7 +11,7 @@
 - 🌱 Atualmente estou aprendendo **Atualmente estou em processo contínuo de especialização em Segurança da Informação, desenvolvendo laboratórios práticos em análise de vulnerabilidades, utilizando o WebSploit Labs.**
 
 📕 **Projetos e Laboratórios Práticos**
-
+- <a href="https://github.com/JosefRibas/OWASP-TOP-10">OWASP TOP 10</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
